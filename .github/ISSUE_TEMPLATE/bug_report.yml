@@ -8,8 +8,6 @@ body:
     attributes:
       label: What happened?
       description: Tell us more about the problem
-      placeholder: ""
-      value: ""
     validations:
       required: true
   - type: textarea
@@ -17,6 +15,5 @@ body:
     attributes:
       label: What is expected ?
       description: This is should be the correct behavior
-      value: ""
     validations:
       required: true

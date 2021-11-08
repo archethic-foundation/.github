@@ -1,0 +1,23 @@
+name: Feature Request
+description: Propose a change
+title: "[Feature]: "
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request form!
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      placeholder: What the change is it trying to solve ?
+      value: ""
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+      placeholder: Can you please give more in details regarding change and the improvement to propose ?
+      value: ""
+    validations:
+      required: true

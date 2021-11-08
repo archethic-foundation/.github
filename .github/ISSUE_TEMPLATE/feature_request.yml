@@ -3,10 +3,6 @@ description: Propose a change
 title: "[Feature]: "
 labels: []
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this feature request form!
   - type: textarea
     id: problem
     attributes:

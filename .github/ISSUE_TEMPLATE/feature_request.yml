@@ -1,7 +1,7 @@
 name: Feature Request
 description: Propose a change
 title: "[Feature]: "
-labels: ["feature"]
+labels: []
 body:
   - type: markdown
     attributes:
@@ -12,12 +12,10 @@ body:
     attributes:
       label: Problem to solve
       placeholder: What the change is it trying to solve ?
-      value: ""
   - type: textarea
     id: solution
     attributes:
       label: Solution
       placeholder: Can you please give more in details regarding change and the improvement to propose ?
-      value: ""
     validations:
       required: true

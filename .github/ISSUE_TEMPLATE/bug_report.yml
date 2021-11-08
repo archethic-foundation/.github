@@ -12,7 +12,7 @@ body:
       value: ""
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: what-expected
     attributes:
       label: What is expected ?

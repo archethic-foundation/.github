@@ -1,0 +1,16 @@
+name: Task Request
+description: Add a new Task
+labels: ["To Do"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Task to solve
+      placeholder: What are the things to do in this task ?
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+      placeholder: Step-by-step procedure to solve the task?
+    validations:
+      required: true

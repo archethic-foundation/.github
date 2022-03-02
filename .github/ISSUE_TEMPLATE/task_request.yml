@@ -1,6 +1,6 @@
 name: Task Request
 description: Add a new Task
-labels: ["To Do"]
+labels: ["task"]
 body:
   - type: textarea
     id: problem

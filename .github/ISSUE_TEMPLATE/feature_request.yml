@@ -2,9 +2,7 @@ name: Feature request
 description: Suggest an feature for the project
 labels: ["feature"]
 body:
-  - type: markdown
-    value: "## Welcome !"
-  - type: markdown
+  - type: textarea
     attributes: 
       value: |
         **Is your feature request related to a problem? Please describe.**

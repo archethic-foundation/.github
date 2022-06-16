@@ -3,6 +3,8 @@ description: Suggest an feature for the project
 labels: ["feature"]
 body:
   - type: markdown
+     value: "## Welcome !"
+  - type: markdown
     attributes: 
       value: |
         **Is your feature request related to a problem? Please describe.**

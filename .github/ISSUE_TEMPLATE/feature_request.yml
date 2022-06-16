@@ -4,13 +4,11 @@ labels: ["feature"]
 body:
   - type: textarea
     attributes: 
-      label: Problem related ?
-      description: "Is your feature request related to a problem? Please describe"
+      label: Is your feature request related to a problem?
       placeholder: "A clear and concise description of what the problem is."
   - type: textarea
     attributes:
-      label: Solution
-      description: "Describe the solution you'd like"
+      label: Describe the solution you'd like
       placeholder: "A clear and concise description of what you want to happen."
   - type: textarea
     attributes:

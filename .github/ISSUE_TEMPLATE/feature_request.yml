@@ -20,6 +20,5 @@ body:
     id: epic
     attributes:
       label: Epic
-      description: Also tell us, what did you expect to happen?
       placeholder: Which epic belongs to this feature ?
-      value: "A bug happened!"
+      value: ""

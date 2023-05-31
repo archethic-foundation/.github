@@ -20,5 +20,5 @@ body:
     id: epic
     attributes:
       label: Epic
-      placeholder: Which epic belongs to this feature ?
-      value: "#ISSUE_NUMBER"
+      placeholder: "#ISSUE_NUMBER"
+      description: Which epic belongs to this feature ?

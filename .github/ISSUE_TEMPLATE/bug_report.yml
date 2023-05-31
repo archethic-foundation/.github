@@ -6,7 +6,14 @@ body:
     attributes: 
       label: Describe the problem you discovered
       placeholder: "A clear and concise description of what the problem is."
+      validations:
+        required: true
   - type: textarea
     attributes:
       label: Describe the solution you'd like
       placeholder: "Clear description of the behavior of what should be correct"
+  - type: input
+    id: epic
+    attributes:
+      label: Epic
+      placeholder: Which epic belongs to this feature ?

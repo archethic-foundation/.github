@@ -21,4 +21,3 @@ body:
     attributes:
       label: Epic
       placeholder: Which epic belongs to this feature ?
-      value: ""

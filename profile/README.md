@@ -8,4 +8,4 @@ Archethic has innovated multiple aspects of the blockchain design to achieve sca
 The official weblinks of Archethic 
 - [Website](https://archethic.net/)
 - [White Paper](https://archethic.net/ARCHEthic_WhitePaper.pdf)
-- [Yellow Paper](https://archethic.net/ARCHEthic_YellowPaper.pdf)
+- [Technical Paper](https://archethic.net/ARCHEthic_YellowPaper.pdf)

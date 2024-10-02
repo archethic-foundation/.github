@@ -1,6 +1,7 @@
 name: Request a feature
 description: Suggest an feature for the project
 labels: ["feature"]
+type: "feature"
 body:
   - type: textarea
     attributes: 
